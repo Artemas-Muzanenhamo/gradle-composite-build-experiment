@@ -17,3 +17,6 @@ gradle-app.setting
 
 /.idea/
 /gradle-composite-build-experiment.iml
+
+# Ignore Gradle build output directory
+build
