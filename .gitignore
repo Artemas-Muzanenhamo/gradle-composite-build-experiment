@@ -20,3 +20,6 @@ gradle-app.setting
 
 # Ignore Gradle build output directory
 build
+.DS_Store
+user-service/.DS_Store
+greeting-generator-library/.DS_Store
